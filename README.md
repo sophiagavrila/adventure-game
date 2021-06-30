@@ -12,7 +12,7 @@ Below is a diagram of the Game Map:
 <br>
 
 ## Challenge
-Convert the existing project to a **Spring Application** complete with an api layer that allows the user to send get/post requests and recieve their updated location in the body of the HTTP response.
+Convert the existing project to a **Spring Boot Application** complete with an api layer that allows the user to send get/post requests and recieve their updated location in the body of the HTTP response.
 
 Hints:
 - Create a sepearate model called `ClientMessage.java` which has a `message` and `locationId`.
