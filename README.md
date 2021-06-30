@@ -24,7 +24,7 @@ Hints:
 - Create a separate package called `com.revature.controller`. This is where you would create your `InputController.java` class.
   - Annotate this class with the `@Controller` annotation.  You could also use the `@RestController` annotation. [Here's a resource on the differences](https://www.baeldung.com/spring-controller-vs-restcontroller).  
 
-- To complete the challenge, the user must be able to send a `post` request to the server like so (imagine that the user wants to move **south** from *Room 1*:
+- To complete the challenge, the user must be able to send a `post` request to the server like so (here, imagine that the user wants to move **south** from *Room 1*):
 
 ```json
 {
