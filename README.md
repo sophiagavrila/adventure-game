@@ -7,7 +7,7 @@ Currently the user is able to run `Driver`and it opens up a simple console-drive
 
 Below is a diagram of the Game Map:
 
-<img src="img/image.png">
+<img src="img/image.png" width="800px">
 
 <br>
 
