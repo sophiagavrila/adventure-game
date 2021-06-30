@@ -19,5 +19,7 @@ Hints:
   - The `message` represents the instructions the client would send to the server.  Previously this was just what the user would enter in the console, such as "go south" .
   - The `locationId` represents the room number of the **current room the user wants to move *from***.
 
+<br>
+
 - Create a separate package called `com.revature.controller`. This is where you would create your `InputController.java` class.
   - Annotate this class with the `@Controller` annotation.  You could also use the `@RestController` annotation. [Here's a resource on the differences](https://www.baeldung.com/spring-controller-vs-restcontroller).  
