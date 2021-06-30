@@ -33,7 +33,7 @@ Hints:
 }
 ```
 
-- A successful reply would be the following, which indicates the location id of the room the user has moved to and the message returned by the user stating where they are.
+- A successful `response` would be the following, which indicates the location id of *the room the user has moved to* and the message returned by the user stating where they are.
 
 ```json
 {
